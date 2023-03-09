@@ -1,0 +1,15 @@
+/home/vera/C#Lection/exemple_001/bin/Debug/net6.0/exemple_001
+/home/vera/C#Lection/exemple_001/bin/Debug/net6.0/exemple_001.deps.json
+/home/vera/C#Lection/exemple_001/bin/Debug/net6.0/exemple_001.runtimeconfig.json
+/home/vera/C#Lection/exemple_001/bin/Debug/net6.0/exemple_001.dll
+/home/vera/C#Lection/exemple_001/bin/Debug/net6.0/ref/exemple_001.dll
+/home/vera/C#Lection/exemple_001/bin/Debug/net6.0/exemple_001.pdb
+/home/vera/C#Lection/exemple_001/obj/Debug/net6.0/exemple_001.csproj.AssemblyReference.cache
+/home/vera/C#Lection/exemple_001/obj/Debug/net6.0/exemple_001.GeneratedMSBuildEditorConfig.editorconfig
+/home/vera/C#Lection/exemple_001/obj/Debug/net6.0/exemple_001.AssemblyInfoInputs.cache
+/home/vera/C#Lection/exemple_001/obj/Debug/net6.0/exemple_001.AssemblyInfo.cs
+/home/vera/C#Lection/exemple_001/obj/Debug/net6.0/exemple_001.csproj.CoreCompileInputs.cache
+/home/vera/C#Lection/exemple_001/obj/Debug/net6.0/exemple_001.dll
+/home/vera/C#Lection/exemple_001/obj/Debug/net6.0/ref/exemple_001.dll
+/home/vera/C#Lection/exemple_001/obj/Debug/net6.0/exemple_001.pdb
+/home/vera/C#Lection/exemple_001/obj/Debug/net6.0/exemple_001.genruntimeconfig.cache
