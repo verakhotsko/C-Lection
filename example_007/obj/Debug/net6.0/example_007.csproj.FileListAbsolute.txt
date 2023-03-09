@@ -1,0 +1,15 @@
+/home/vera/C#Lection/example_007/obj/Debug/net6.0/example_007.csproj.AssemblyReference.cache
+/home/vera/C#Lection/example_007/obj/Debug/net6.0/example_007.GeneratedMSBuildEditorConfig.editorconfig
+/home/vera/C#Lection/example_007/obj/Debug/net6.0/example_007.AssemblyInfoInputs.cache
+/home/vera/C#Lection/example_007/obj/Debug/net6.0/example_007.AssemblyInfo.cs
+/home/vera/C#Lection/example_007/obj/Debug/net6.0/example_007.csproj.CoreCompileInputs.cache
+/home/vera/C#Lection/example_007/bin/Debug/net6.0/example_007
+/home/vera/C#Lection/example_007/bin/Debug/net6.0/example_007.deps.json
+/home/vera/C#Lection/example_007/bin/Debug/net6.0/example_007.runtimeconfig.json
+/home/vera/C#Lection/example_007/bin/Debug/net6.0/example_007.dll
+/home/vera/C#Lection/example_007/bin/Debug/net6.0/ref/example_007.dll
+/home/vera/C#Lection/example_007/bin/Debug/net6.0/example_007.pdb
+/home/vera/C#Lection/example_007/obj/Debug/net6.0/example_007.dll
+/home/vera/C#Lection/example_007/obj/Debug/net6.0/ref/example_007.dll
+/home/vera/C#Lection/example_007/obj/Debug/net6.0/example_007.pdb
+/home/vera/C#Lection/example_007/obj/Debug/net6.0/example_007.genruntimeconfig.cache
